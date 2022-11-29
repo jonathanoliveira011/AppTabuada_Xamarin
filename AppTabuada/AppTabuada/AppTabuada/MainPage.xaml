@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTabuada.MainPage">
+    <StackLayout>
+        <Frame BackgroundColor="Red" Padding="14" CornerRadius="0">
+            <Label Text="+-- TABUADA --+" HorizontalTextAlignment="Center" TextColor="White" FontSize="22"/>
+        </Frame>
+
+        <StackLayout Padding="10">
+            <Entry x:Name="eNumero" 
+                   Keyboard="Numeric" 
+                   Placeholder="Informe um valor"
+                   FontSize="Large"/>
+            <Button x:Name="btCalcular" Text="Executar" 
+                    Clicked="Executar"
+                    BackgroundColor="White"
+                    TextColor="Black"/>
+            <ListView x:Name="Dados"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\bin\Debug\netstandard2.0\AppTabuada.deps.json
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\bin\Debug\netstandard2.0\AppTabuada.dll
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\bin\Debug\netstandard2.0\AppTabuada.pdb
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.dll
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\refint\AppTabuada.dll
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.pdb
+C:\Users\User\Documents\GitHub\AppTabuada_Xamarin\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\ref\AppTabuada.dll
